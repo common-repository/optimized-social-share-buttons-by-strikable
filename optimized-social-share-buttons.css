@@ -1,0 +1,70 @@
+.strikable-link {
+    padding: 4px 8px 6px 8px;
+    color: white;
+    font-size: 12px;
+    border-radius: 2px;
+    margin-right: 2px;
+    cursor: pointer;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    box-shadow: inset 0 -3px 0 rgba(0,0,0,.2);
+    -moz-box-shadow: inset 0 -3px 0 rgba(0,0,0,.2);
+    -webkit-box-shadow: inset 0 -3px 0 rgba(0,0,0,.2);
+}
+ 
+.strikable-link:hover,.strikable-link:active {
+    color: white;
+}
+ 
+.strikable-twitter {
+    background: #00aced;
+}
+ 
+.strikable-twitter:hover,.strikable-twitter:active {
+    background: #0084b4;
+}
+ 
+.strikable-facebook {
+    background: #3B5997;
+}
+ 
+.strikable-facebook:hover,.strikable-facebook:active {
+    background: #2d4372;
+}
+ 
+.strikable-googleplus {
+    background: #D64937;
+}
+ 
+.strikable-googleplus:hover,.strikable-googleplus:active {
+    background: #b53525;
+}
+ 
+.strikable-buffer {
+    background: #444;
+}
+ 
+.strikable-buffer:hover,.strikable-buffer:active {
+    background: #222;
+}
+ 
+.strikable-pinterest {
+    background: #bd081c;
+}
+ 
+.strikable-pinterest:hover,.strikable-pinterest:active {
+    background: #bd081c;
+}
+
+.strikable-email {
+    background: #8C8C8C;
+}
+ 
+.strikable-email:hover,.strikable-email:active {
+    background: #8C8C8C;
+}
+.strikable-social {
+    margin: 20px 0px 25px 0px;
+    -webkit-font-smoothing: antialiased;
+    font-size: 12px;
+}

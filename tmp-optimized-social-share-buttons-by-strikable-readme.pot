@@ -1,0 +1,132 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Social Sharing Buttons (Optimized)"
+msgstr ""
+
+#. Short description.
+msgid "Fastest &amp; Simplest Social Sharing Button without any Java Script Loading - WordPress Speed Optimization Goal."
+msgstr ""
+
+#. Screenshot description.
+msgid "Social Sharing button"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin panel options"
+msgstr ""
+
+#. Found in description list item.
+msgid "without any <strong>JavaScripts</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "without any <strong>page loading performance impact</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Not all but most of social sharing plugins are not optimized for your need"
+msgstr ""
+
+#. Found in description list item.
+msgid "They may load social sharing icons individually which increased unnecessary HTTP requests to your server"
+msgstr ""
+
+#. Found in description list item.
+msgid "If you are using official social sharing buttons then it loads Java Script for each Sharing button which eventually impacts your page load speed significantly"
+msgstr ""
+
+#. Found in description list item.
+msgid "If your page speed is high, your site will rank high in Google Search"
+msgstr ""
+
+#. Found in description list item.
+msgid "<p>If your page speed is high, there are more chances users will return to your site more frequently as it’s smooth experience for them</p>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<p>There is no point to load java scripts on each and every page on your site. <a href=\"http://crunchify.com/how-to-create-social-sharing-button-without-any-plugin-and-script-loading-wordpress-speed-optimization-goal/\">more detailed info</a>.</p>"
+msgstr ""
+
+#. Found in description list item.
+msgid "But let me know what you think? Do you need more options? Chime in and provide your comment on Plugin <a href=\"http://crunchify.com/social-sharing-buttons-wordpress-plugin-no-javascript-loading/\"><em>Homepage (Live Example)</em></a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "We can’t imagine a site without Social Sharing buttons. It’s must and absolutely required. This plugin adds Social Sharing buttons after each post:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Subscribe to <a href=\"https://twitter.com/Crunchify\">Twitter</a> and <a href=\"https://facebook.com/Crunchify\">Facebook</a> to get <strong>latest update</strong>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"<a href=\"https://wordpress.org/plugins/optimized-social-share-buttons-by-strikable/screenshots\">Checkout Screenshots</a> | \n"
+"<a href=\"https://github.com/Crunchify/Optimized-Social-Share-Buttons\">Contribute &amp; Report any problem on Github</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Why another Social Sharing Button?</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If your page speed is high, there are more chances users will return to your site more frequently as it’s smooth experience for them"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "There is no point to load java scripts on each and every page on your site. <a href=\"http://crunchify.com/how-to-create-social-sharing-button-without-any-plugin-and-script-loading-wordpress-speed-optimization-goal/\">more detailed info</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>I personally don't think we need more sharing buttons</strong>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Unpack the <code>download-package</code>."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the file to the <code>/wp-content/plugins/</code> directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the <code>Plugins</code> menu in WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Configure the options under Admin Panel <code>Settings -&gt; Optimized Social Share</code>."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Done and Ready."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fully functional initial version commit"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where do I get latest updates on plugin?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Got a Question and wanted to report an issue?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Want to contribute to this plugin?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "On <a href=\"https://twitter.com/Crunchify\">Twitter</a> and <a href=\"https://www.facebook.com/Crunchify\">Facebook</a>."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Please use <a href=\"https://github.com/Crunchify/Optimized-Social-Share-Buttons/issues\">Github Issue</a> tab to report any issue."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Please fork the <a href=\"https://github.com/Crunchify/Optimized-Social-Share-Buttons/\">Github repo</a> and file PR with fix and enhancement. Tutorial on <a href=\"http://crunchify.com/how-to-fork-github-repository-create-pull-request-and-merge/\">how to fork and file PR</a>."
+msgstr ""
